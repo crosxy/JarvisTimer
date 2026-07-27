@@ -1,4 +1,4 @@
-# ⏳ Jarvis Timer — League of Legends
+#                                    ⏳ Jarvis Timer — League of Legends
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/crosxy/Jarvis-Timer/main/assets/banner.png" alt="Jarvis Timer Banner" width="100%" />
