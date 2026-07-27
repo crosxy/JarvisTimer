@@ -30,6 +30,16 @@ Desenvolvido em **Python** utilizando **PySide6**, o projeto conta com uma inter
 - 📦 **Instalador Windows:** Executável pronto para instalação no Windows com atalhos na Área de Trabalho e Menu Iniciar.
 
 ---
+🛠️ Tecnologias Utilizadas
+Python — Linguagem principal
+
+PySide6 (Qt) — Interface gráfica
+
+PyInstaller — Compilação para .exe
+
+Inno Setup — Gerador do instalador para Windows
+
+GitHub API — Sistema de Auto-Update de Releases
 
 ## 🚀 Como Baixar e Usar
 
