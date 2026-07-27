@@ -1,7 +1,7 @@
 # ⏳ Jarvis Timer — League of Legends
 
 <p align="center">
-  <img src="assets/banner.png" alt="Jarvis Timer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/crosxy/Jarvis-Timer/main/assets/banner.png" alt="Jarvis Timer Banner" width="100%" />
 </p>
 
 <p align="center">
